@@ -22,7 +22,7 @@ request.onload = function(){
       document.querySelector('#price_label').textContent = response;
       
     } else {
-      alert("un probleme est intervenue , veillez reseillez plus tard..")
+      alert("un probleme est intervenue , veillez réessayer plus tard..")
     }
     
   }
